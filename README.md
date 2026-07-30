@@ -329,25 +329,15 @@ Display Confidence
 
 ```
 Model
-
 +
-
 Deployment
-
 +
-
 Deep Learning
-
 +
-
 CNN
-
 +
-
 Interactive UI
-
 =
-
 Production Ready Project
 ```
 
@@ -375,6 +365,4 @@ https://linkedin.com/in/sourabh9098
 
 ## If you found this project useful
 
-Please consider giving this repository a ⭐.
-
-It motivates me to build more Machine Learning and Deep Learning projects.
+Please consider giving this repository a ⭐
