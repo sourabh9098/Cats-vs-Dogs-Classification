@@ -17,7 +17,6 @@
 
 </p>
 
----
 
 # Project Overview
 
