@@ -36,20 +36,6 @@ This project demonstrates the complete deep learning workflow including:
 
 ---
 
-# Live Demo
-
-**Live Application**
-
-> Add your deployed Streamlit/Render URL here
-
-Example
-
-```
-https://your-app.onrender.com
-```
-
----
-
 # Project Preview
 
 ## Home Page
@@ -100,45 +86,31 @@ Images are resized to
 
 ```
 Dataset
-
       │
-
       ▼
 
 Image Preprocessing
-
       │
-
       ▼
 
 Normalization
-
       │
-
       ▼
 
 CNN Model
-
       │
-
       ▼
 
 Training
-
       │
-
       ▼
 
 Evaluation
-
       │
-
       ▼
 
 Saved Model (.keras)
-
       │
-
       ▼
 
 Streamlit Deployment
@@ -155,49 +127,27 @@ Example Architecture
 
 ```
 Input Image
-
 ↓
-
 Conv2D
-
 ↓
-
 MaxPooling
-
 ↓
-
 Conv2D
-
 ↓
-
 MaxPooling
-
 ↓
-
 Conv2D
-
 ↓
-
 MaxPooling
-
 ↓
-
 Flatten
-
 ↓
-
 Dense
-
 ↓
-
 Dropout
-
 ↓
-
 Dense
-
 ↓
-
 Output Layer
 
 ```
@@ -224,24 +174,15 @@ Output Layer
 Cats-vs-Dogs-CNN/
 
 │
-
 ├── app.py
-
 ├── cnn_model.keras
-
 ├── class_names.pkl
-
 ├── requirements.txt
 
 ├── assets/
-
 │     ├── banner.png
-
 │     ├── home.png
-
 │     └── prediction.png
-
-│
 
 └── README.md
 
@@ -249,33 +190,6 @@ Cats-vs-Dogs-CNN/
 
 ---
 
-# Installation
-
-Clone Repository
-
-```bash
-git clone https://github.com/yourusername/Cats-vs-Dogs-CNN.git
-```
-
-Move into project
-
-```bash
-cd Cats-vs-Dogs-CNN
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Run Streamlit
-
-```bash
-streamlit run app.py
-```
-
----
 
 # Prediction Workflow
 
