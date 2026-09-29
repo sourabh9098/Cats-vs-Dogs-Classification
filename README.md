@@ -281,31 +281,18 @@ streamlit run app.py
 
 ```
 Upload Image
-
 ↓
-
 Resize Image
-
 ↓
-
 Normalize Pixels
-
 ↓
-
 CNN Model Prediction
-
 ↓
-
 Softmax / Sigmoid Output
-
 ↓
-
 Display Class
-
 ↓
-
 Display Confidence
-
 ```
 
 ---
