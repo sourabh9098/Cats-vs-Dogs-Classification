@@ -1,10 +1,6 @@
 # AI-Powered Cats vs Dogs Classification using CNN
 
-<p align="center">
-
-<img src="assets/banner.png" width="100%"/>
-
-</p>
+<p align="center"> </p>
 
 <p align="center">
 
@@ -36,20 +32,6 @@ This project demonstrates the complete deep learning workflow including:
 
 ---
 
-# Project Preview
-
-## Home Page
-
-<img src="assets/home.png" width="100%">
-
----
-
-## Prediction Result
-
-<img src="assets/prediction.png" width="100%">
-
----
-
 # Features
 
 - Upload any Cat or Dog image
@@ -63,24 +45,10 @@ This project demonstrates the complete deep learning workflow including:
 
 ---
 
-# Dataset
-
-Dataset Used
-
-**Microsoft Cats vs Dogs Dataset**
-
 Classes
 
 - Cat
 - Dog
-
-Images are resized to
-
-```
-256 × 256
-```
-
----
 
 # Deep Learning Pipeline
 
@@ -216,11 +184,8 @@ Display Confidence
 - MobileNetV2 Transfer Learning
 - EfficientNet
 - Multi-Class Animal Classification
-- Grad-CAM Visualization
 - Model Explainability
 - Batch Image Prediction
-- Webcam Prediction
-- Docker Deployment
 - FastAPI Backend
 
 ---
